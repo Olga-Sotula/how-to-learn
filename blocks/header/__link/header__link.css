@@ -3,4 +3,10 @@
     font-size: 18px;
     line-height: 25px;
     text-decoration: none;
+    opacity: 1;
+    transition: opacity 1.5s ease-in;
+  }
+
+  .header__link:hover {
+    opacity: .33;
   }
