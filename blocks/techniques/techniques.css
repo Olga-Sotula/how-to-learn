@@ -1,5 +1,6 @@
 .techniques {
     width: 80%;
     box-sizing: border-box;
-    margin: 100px auto;
+    padding-top: 100px;
+    margin: 0 auto;
   }
